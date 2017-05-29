@@ -1,0 +1,15 @@
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\bin\Debug\QuickTodos.exe.config
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\bin\Debug\QuickTodos.exe
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\bin\Debug\QuickTodos.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.Properties.Resources.resources
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.TodoControl.resources
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.csproj.GenerateResource.Cache
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.exe
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.TaskControl.resources
+c:\users\piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.MainForm.resources
+C:\Users\Piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.CategoryControl.resources
+C:\Users\Piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.TodoForm.resources
+C:\Users\Piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.CategoryForm.resources
+C:\Users\Piotrek\documents\visual studio 2015\Projects\QuickTodos\QuickTodos\obj\Debug\QuickTodos.LoadingIndicator.resources
